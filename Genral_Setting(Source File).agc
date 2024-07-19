@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
 <!-- Last update time July/19/2024 -->
-<!-- This file is derived from the Leica D-Lux 8 camera and represents the original parameters for all smartphones. It serves as a general template, with the test model being the S23_Ultra. -->
+<!-- This file is derived from the Leica D-Lux 8 camera and represents the original parameters for all smartphones. -->
+<!-- It serves as a general template, with the test model being the S23_Ultra. -->
 
     <string name="lib_shastaforce_key_key">0</string>
     <string name="lib_cg5_key_p3_3">0.679</string>

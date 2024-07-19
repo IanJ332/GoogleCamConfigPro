@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
     <!-- Last update time July/19/2024 -->
-    <!-- Phone modified by CameraConfigPro\Genral_Setting(Source File).agc, touch-up work based on main camera S5KHP2 f/1.7, 24 mm, 1/1.3” PDAF, Laser AF -->
+    <!-- Phone modified by CameraConfigPro\Genral_Setting(Source File).agc -->
+    <!-- touch-up work based on main camera S5KHP2 f/1.7, 24 mm, 1/1.3” PDAF, Laser AF -->
+
     <!-- Rendering Optimization has not been done yet. -->
+    <!-- Rendering Optimization has not been done yet. -->
+    <!-- Rendering Optimization has not been done yet. -->
+    
     <string name="lib_shastaforce_key_key">0</string>
     <string name="lib_cg5_key_p3_3">0.679</string>
     <string name="lib_tun_col_sat_par_1_key_p3_3">1.05</string>
