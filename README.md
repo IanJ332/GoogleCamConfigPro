@@ -44,7 +44,7 @@ Welcome to **CameraConfigPro**! This repository offers a comprehensive collectio
 
 - All config files in this repository are based on BigKaKa's AGC9.2.14_V11.0.apk available [HERE](https://www.celsoazevedo.com/), which is a safe and stable version.
 - The configurations were developed using a Samsung S23 ULTRA and a Leica D-Lux 8 camera.
-- For any issues or suggestions, please create a discussion or an issue on this platform.
+- For any issues or suggestions, please create a discussion or an issue on [github](https://github.com/IanJ332/CameraConfigPro/issues).
 - These configs are compiled from various internet sources and do not possess full copyright. If there is any infringement, I apologize and will promptly remove the content upon request.
 - The motivation for this project was to replicate the parameters of my Leica camera on my phone when I forget to bring it while traveling.
 - There is no guarantee that all phones will produce different photos with the same parameters, and I debugged these files as much as possible based on different camera algorithms and the varying quality of the sensors.
