@@ -2,7 +2,7 @@
 <map>
     <!-- Last update time July/19/2024 -->
     <!-- Phone modified by CameraConfigPro\Genral_Setting(Source File).agc -->
-    <!-- Use for test on Samung S24 ultra -->
+    <!-- touch-up work based on main camera S5KHP2 f/1.7, 24 mm, 1/1.3” PDAF, Laser AF -->
 
     <!-- Rendering Optimization has not been done yet. -->
     <!-- Rendering Optimization has not been done yet. -->
@@ -2287,7 +2287,7 @@
     <string name="lib_pref_hdrnet_key_p8_2">0</string>
     <string name="lib_contrast_3b_key_0">1.000 (Default)</string>
     <string name="lib_pref_hdrnet_key_p8_0">0</string>
-    <string name="pref_watermark_title_key">Galaxy S24 Ultra</string>
+    <string name="pref_watermark_title_key">Galaxy S23 Ultra</string>
     <string name="black_level_2_key">64.0</string>
     <string name="lib_pref_b_hue_key_p13_0">10</string>
     <string name="lib_pref_b_hue_key_p13_1">10</string>
@@ -3569,7 +3569,7 @@
     <string name="lib_luma_dl_sabre_l2_key_p0_7">Off (as in library)</string>
     <string name="lib_luma_dl_sabre_l2_key_p0_6">Off (as in library)</string>
     <string name="lib_luma_dl_sabre_l2_key_p0_5">Off (as in library)</string>
-    <string name="pref_prefix_key">CRS24u_</string>
+    <string name="pref_prefix_key">CRS23u_</string>
     <string name="lib_saturations_key_p5_1">1.0 (Default)</string>
     <string name="pref_expcomp_key_10">0</string>
     <string name="lib_saturations_key_p5_0">1.0 (Default)</string>
