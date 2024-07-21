@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
+    <!-- Last update time July/20/2024 -->
+    <!-- Phone modified by CameraConfigPro\Genral_Setting(Source File).agc -->
+    <!-- touch-up work based on main camera S5KHP2 f/1.7, 24 mm, 1/1.3” PDAF, Laser AF -->
+
+    <!-- Rendering Optimization has not been done yet. -->
+    <!-- Rendering Optimization has not been done yet. -->
+    <!-- Rendering Optimization has not been done yet. -->
     <!-- Leica Vivid Mode Config -->
     <string name="lib_profile_title_key_p4_5">Leica Vivid</string>
     <string name="lib_profile_title_key_p4_4">Leica Vivid</string>
