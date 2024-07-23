@@ -72,6 +72,6 @@ Thank you for using, viewing, and providing feedback. **May you find your own ro
 
 <p align="center">
   
-  ### License： This project is licensed under the MIT License. See the <a href="https://github.com/IanJ332/CameraConfigPro/blob/main/MIT%20License">LICENSE</a> file for details.
+  ### License： This project is licensed under the MIT License. See the <a href="https://github.com/IanJ332/GoogleCamConfigPro/blob/main/LICENSE">LICENSE</a> file for details.
 </p>
 
