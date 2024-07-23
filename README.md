@@ -1,4 +1,4 @@
-# 📸 CameraConfigPro
+# 📸 GoogleCamConfigPro
 
 **Ⅰ. Description:**
 
