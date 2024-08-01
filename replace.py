@@ -22,7 +22,7 @@ def replace_text_in_file(file_path):
         file.write(content)
 
 # file path
-file_path = r'C:\Users\User\Desktop\TheFiles\CameraConfigPro\Galaxy general config V1(Specialized for black screen).agc'
+file_path = r'C:\Users\User\Desktop\TheFiles\CameraConfigPro\Galaxy config(solve problem with focus).agc'
 
 # excute it
 replace_text_in_file(file_path)

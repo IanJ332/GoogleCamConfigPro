@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <!-- Last update time July/30/2024 -->
+    <!-- Last update time July/31/2024 -->
     <!-- Phone OPTIMIIZED by CameraConfigPro\Genral_Setting(Source File).agc -->
     <!-- touch-up work based on main camera S5KHP2 f/1.7, 24 mm, 1/1.3” PDAF, Laser AF -->
-
+    
     <string name="lib_shastaforce_key_key">0</string>
     <string name="lib_cg5_key_p3_3">0.679</string>
     <string name="lib_tun_col_sat_par_1_key_p3_3">1.05</string>
@@ -125,14 +125,14 @@
     <string name="lib_cg4_key_p2_3">Off (as in library)</string>
     <string name="lib_chroma_b_key_p4_1">Off (as in library)</string>
     <string name="lib_cg4_key_p2_2">Off (as in library)</string>
-    <string name="pref_opmode_portrait_key_2">0</string>
+    <string name="pref_opmode_portrait_key_2">61444</string>
     <string name="pref_c_hue_key_3">0</string>
-    <string name="pref_opmode_portrait_key_1">0</string>
+    <string name="pref_opmode_portrait_key_1">61444</string>
     <string name="pref_opmode_portrait_key_4">0</string>
     <string name="pref_fix_awbgains_key">0</string>
-    <string name="pref_opmode_portrait_key_3">0</string>
+    <string name="pref_opmode_portrait_key_3">61444</string>
     <string name="pref_c_hue_key_0">0</string>
-    <string name="pref_opmode_portrait_key_0">0</string>
+    <string name="pref_opmode_portrait_key_0">61444</string>
     <string name="lib_vignettec_key_p7_0">5.00</string>
     <string name="gg_key_10">1.062</string>
     <string name="lib_vignettec_key_p7_1">5.00</string>
@@ -201,12 +201,12 @@
     <string name="pref_opmode_photo_key_6">0</string>
     <string name="bb_key_1">1.828</string>
     <string name="pref_opmode_photo_key_7">0</string>
-    <string name="pref_opmode_photo_key_0">0</string>
+    <string name="pref_opmode_photo_key_0">61444</string>
     <string name="lib_savannah_merge_key_p2_3">Off (as in library)</string>
-    <string name="pref_opmode_photo_key_1">0</string>
-    <string name="pref_opmode_photo_key_2">0</string>
+    <string name="pref_opmode_photo_key_1">61444</string>
+    <string name="pref_opmode_photo_key_2">61444</string>
     <string name="lib_savannah_merge_key_p2_1">Off (as in library)</string>
-    <string name="pref_opmode_photo_key_3">0</string>
+    <string name="pref_opmode_photo_key_3">61444</string>
     <string name="lib_savannah_merge_key_p2_2">Off (as in library)</string>
     <string name="bb_key_8">1.828</string>
     <string name="bb_key_7">1.828</string>
@@ -841,11 +841,11 @@
     <string name="lib_luma_denoise_new_b_key_p0_8">Off (as in library)</string>
     <string name="lib_luma_denoise_new_b_key_p0_9">Off (as in library)</string>
     <string name="pref_pzoom_disable_key">1</string>
-    <string name="lib_profile_title_key_p1_5">Night Vision</string>
-    <string name="lib_profile_title_key_p1_3">Night Vision</string>
-    <string name="lib_profile_title_key_p1_2">Night Vision</string>
-    <string name="lib_profile_title_key_p1_1">Night Vision</string>
-    <string name="lib_profile_title_key_p1_0">Night Vision</string>
+    <string name="lib_profile_title_key_p1_5">夜景压光</string>
+    <string name="lib_profile_title_key_p1_3">夜景压光</string>
+    <string name="lib_profile_title_key_p1_2">夜景压光</string>
+    <string name="lib_profile_title_key_p1_1">夜景压光</string>
+    <string name="lib_profile_title_key_p1_0">夜景压光</string>
     <string name="pref_red_coeff_key_8">1.0</string>
     <string name="lib_chroma_a_key_p4_2">Off (as in library)</string>
     <string name="pref_red_coeff_key_9">1.0</string>
@@ -1364,18 +1364,18 @@
     <string name="lib_savannah_merge_key_p0_7">Off (as in library)</string>
     <string name="lib_savannah_merge_key_p0_8">Off (as in library)</string>
     <string name="lib_blurpreview_key_key">0</string>
-    <string name="lib_profile_title_key_p4_5">Leica Spirited</string>
+    <string name="lib_profile_title_key_p4_5">Leica Vivid</string>
     <string name="pref_fix_spatial_gain_map_key">0</string>
     <string name="lib_luma_dms_l3_key_p0_5">Off (as in library)</string>
     <string name="lib_luma_dms_l3_key_p0_6">Off (as in library)</string>
     <string name="lib_luma_dms_l3_key_p0_7">Off (as in library)</string>
     <string name="lib_luma_dms_l3_key_p0_8">Off (as in library)</string>
     <string name="lib_luma_dms_l3_key_p0_9">Off (as in library)</string>
-    <string name="lib_profile_title_key_p4_3">Leica Spirited</string>
-    <string name="lib_profile_title_key_p4_2">Leica Spirited</string>
-    <string name="lib_profile_title_key_p4_1">Leica Spirited</string>
+    <string name="lib_profile_title_key_p4_3">Leica Vivid</string>
+    <string name="lib_profile_title_key_p4_2">Leica Vivid</string>
+    <string name="lib_profile_title_key_p4_1">Leica Vivid</string>
     <string name="lib_luma_a_key_p0_9">Off (as in library)</string>
-    <string name="lib_profile_title_key_p4_0">Leica Spirited</string>
+    <string name="lib_profile_title_key_p4_0">Leica Vivid</string>
     <string name="lib_exposure_darker_key_p0_6">Off (as in library)</string>
     <string name="lib_exposure_darker_key_p0_5">Off (as in library)</string>
     <string name="lib_exposure_darker_key_p0_8">Off (as in library)</string>
@@ -1869,7 +1869,7 @@
     <string name="lib_cg5_key_p5_2">0.679</string>
     <string name="pref_opmode_ns_key_4">0</string>
     <string name="lib_white_level_key_p9_5">0.04</string>
-    <string name="pref_opmode_ns_key_3">0</string>
+    <string name="pref_opmode_ns_key_3">61444</string>
     <string name="pref_opmode_ns_key_6">0</string>
     <string name="lib_white_level_key_p9_3">0.04</string>
     <string name="pref_opmode_ns_key_5">0</string>
@@ -1885,15 +1885,15 @@
     <string name="pref_manual_opmode_photo_key_6">0</string>
     <string name="pref_manual_opmode_photo_key_3">0</string>
     <string name="pref_manual_opmode_photo_key_4">0</string>
-    <string name="pref_opmode_ns_key_0">0</string>
+    <string name="pref_opmode_ns_key_0">61444</string>
     <string name="pref_manual_opmode_photo_key_9">0</string>
     <string name="pref_camera_dirty_lens_history_key56"></string>
     <string name="lib_white_level_key_p9_1">0.04</string>
     <string name="lib_white_level_key_p9_2">0.04</string>
-    <string name="pref_opmode_ns_key_2">0</string>
+    <string name="pref_opmode_ns_key_2">61444</string>
     <string name="pref_manual_opmode_photo_key_7">0</string>
     <string name="pref_camera_dirty_lens_history_key54">-2.5751421|-7.173686|-3.125267|-4.536769|3.4361117|-2.5794246|-0.63897324|-4.314983|-3.3797982|-0.12522215|-2.7875693|-2.2605622|0.3277294|1.2045223|-0.6547343|-4.8421407|-1.6488602|-1.7508384|-1.7388738|-1.29387|-5.4930344|-4.7826724|-4.1096597|-4.6177473|-3.5795686|-1.7794883|-1.0104369|-4.0930133|-1.8901376|-3.3385508|-2.409064|-2.616512|</string>
-    <string name="pref_opmode_ns_key_1">0</string>
+    <string name="pref_opmode_ns_key_1">61444</string>
     <string name="pref_manual_opmode_photo_key_8">0</string>
     <string name="lib_white_level_key_p9_0">0.04</string>
     <string name="lib_pref_green_coeff_key">1.0</string>
@@ -3100,10 +3100,10 @@
     <string name="lib_vignette_key_p10_1">0.96875 (Enable)</string>
     <string name="lib_cf2_key_p3_0">0.85</string>
     <string name="lib_vignette_key_p10_2">0.96875 (Enable)</string>
-    <string name="lib_profile_title_key_p5_5">Leica Vivid</string>
+    <string name="lib_profile_title_key_p5_5">Leica Spirited</string>
     <string name="lib_cf2_key_p3_1">0.85</string>
     <string name="lib_vignette_key_p10_0">0.96875 (Enable)</string>
-    <string name="lib_profile_title_key_p5_3">Leica Vivid</string>
+    <string name="lib_profile_title_key_p5_3">Leica Spirited</string>
     <string name="manual_focus_near_key_8">0.833</string>
     <string name="lib_vignette_key_p10_5">0.96875 (Enable)</string>
     <string name="manual_focus_near_key_7">0.833</string>
@@ -3118,9 +3118,9 @@
     <string name="lib_dehazed_expo_key_p11_5">0</string>
     <string name="lib_dehazed_expo_key_p11_3">0</string>
     <string name="lib_dehazed_expo_key_p11_2">0</string>
-    <string name="lib_profile_title_key_p5_2">Leica Vivid</string>
-    <string name="lib_profile_title_key_p5_1">Leica Vivid</string>
-    <string name="lib_profile_title_key_p5_0">Leica Vivid</string>
+    <string name="lib_profile_title_key_p5_2">Leica Spirited</string>
+    <string name="lib_profile_title_key_p5_1">Leica Spirited</string>
+    <string name="lib_profile_title_key_p5_0">Leica Spirited</string>
     <string name="lib_chroma_a_key_p0_6">Off (as in library)</string>
     <string name="lib_chroma_a_key_p0_7">Off (as in library)</string>
     <string name="lib_chroma_a_key_p0_8">Off (as in library)</string>
@@ -3863,12 +3863,12 @@
     <string name="lib_luma_a_key_3">0.9375</string>
     <string name="lib_luma_a_key_2">0.875</string>
     <string name="lib_luma_a_key_4">1.0 (Default)</string>
-    <string name="lib_profile_title_key_p0_3">Standard Mode</string>
-    <string name="lib_profile_title_key_p0_2">Standard Mode</string>
+    <string name="lib_profile_title_key_p0_3">标准模式</string>
+    <string name="lib_profile_title_key_p0_2">标准模式</string>
     <string name="lib_luma_a_key_1">1.0 (Default)</string>
-    <string name="lib_profile_title_key_p0_1">Standard Mode</string>
+    <string name="lib_profile_title_key_p0_1">标准模式</string>
     <string name="lib_luma_a_key_0">0.625</string>
-    <string name="lib_profile_title_key_p0_0">Standard Mode</string>
+    <string name="lib_profile_title_key_p0_0">标准模式</string>
     <string name="lib_softsharpc_key_3">0.875</string>
     <string name="lib_contrast_2_key_p2_5">Off (as in library)</string>
     <string name="lib_chroma_a_key_3">1.0625</string>
@@ -4889,7 +4889,7 @@
     <string name="lib_cg2_key_p4_1">0.816 (Default CG2)</string>
     
     
-    <string name="lib_pref_red_coeff_key_p1_0">1.0</string>
+  <string name="lib_pref_red_coeff_key_p1_0">1.0</string>
 <string name="lib_pref_red_coeff_key_p1_1">1.0</string>
 <string name="lib_pref_red_coeff_key_p1_2">1.0</string>
 <string name="lib_pref_red_coeff_key_p1_3">1.0</string>
@@ -4908,7 +4908,7 @@
  <string name="pref_merge_key_3">2</string>
 <string name="pref_merge_key_4">2</string>
 
-    <string name="pref_show_lut_fbutton_key">0</string>
-
     <boolean name="camcorder.4k60fps" value="true" />
+    
+        <string name="pref_show_lut_fbutton_key">0</string>
 </map>
