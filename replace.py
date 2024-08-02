@@ -34,7 +34,7 @@ def replace_text_in_file(file_path):
         file.write(content)
 
 # file path
-file_path = r'C:\Users\User\Desktop\TheFiles\CameraConfigPro\oppo FindX7 Ultra.agc'
+file_path = r'C:\Users\User\Desktop\TheFiles\CameraConfigPro\oppo series phone\oppo FindX6 Pro.agc'
 
 # excute it
 replace_text_in_file(file_path)
