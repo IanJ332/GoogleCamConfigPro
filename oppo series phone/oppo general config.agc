@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
+    <!-- Last update time Aug/01/2024 -->
+    <!-- Phone OPTIMIIZED by CameraConfigPro\Genral_Setting(Source File).agc -->
+    <!-- touch-up work based on main camera Sony IMX766, f/1.75, 23 mm, 1/1.76" PDAF, Laser AF -->
+    
     <string name="lib_shastaforce_key_key">0</string>
     <string name="lib_cg5_key_p3_3">0.679</string>
     <string name="lib_tun_col_sat_par_1_key_p3_3">1.05</string>
@@ -5078,26 +5082,4 @@
     <boolean name="camcorder.4k60fps" value="true" />
     
       <string name="pref_show_lut_fbutton_key">0</string>  
-    
-<!-- 开启隐藏模式删除我这行和下面那行
-
-<string name="lib_profile_show_key_p6_0">0</string>
-    <string name="lib_profile_show_key_p6_1">0</string>
-    <string name="lib_profile_show_key_p6_2">0</string>
-<string name="lib_profile_show_key_p6_3">0</string>
-    <string name="lib_profile_show_key_p9_0">0</string>
-    <string name="lib_profile_show_key_p9_1">0</string>
-    <string name="lib_profile_show_key_p9_2">0</string>
-<string name="lib_profile_show_key_p9_3">0</string>
-    <string name="lib_profile_show_key_p11_0">0</string>
-    <string name="lib_profile_show_key_p11_1">0</string>
-    <string name="lib_profile_show_key_p11_2">0</string>
-<string name="lib_profile_show_key_p11_3">0</string>
-
-开启隐藏模式也删除我这行-->
-
- 
-
-
-    
 </map>

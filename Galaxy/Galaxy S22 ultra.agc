@@ -4928,23 +4928,4 @@
 
     <boolean name="camcorder.4k60fps" value="true" />
     <string name="pref_show_lut_fbutton_key">0</string>
-    
-<!-- 开启隐藏模式删除我这行和下面那行
-
-<string name="lib_profile_show_key_p6_0">0</string>
-    <string name="lib_profile_show_key_p6_1">0</string>
-    <string name="lib_profile_show_key_p6_2">0</string>
-<string name="lib_profile_show_key_p6_3">0</string>
-    <string name="lib_profile_show_key_p9_0">0</string>
-    <string name="lib_profile_show_key_p9_1">0</string>
-    <string name="lib_profile_show_key_p9_2">0</string>
-<string name="lib_profile_show_key_p9_3">0</string>
-    <string name="lib_profile_show_key_p11_0">0</string>
-    <string name="lib_profile_show_key_p11_1">0</string>
-    <string name="lib_profile_show_key_p11_2">0</string>
-<string name="lib_profile_show_key_p11_3">0</string>
-
-开启隐藏模式也删除我这行-->
-
-    
 </map>

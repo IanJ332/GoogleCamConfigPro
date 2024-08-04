@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
+    <!-- Last update time Aug/03/2024 -->
+    <!-- Phone modified by CameraConfigPro\Genral_Setting(Source File).agc -->
+
     <string name="lib_shastaforce_key_key">0</string>
     <string name="lib_cg5_key_p3_3">0.679</string>
     <string name="lib_tun_col_sat_par_1_key_p3_3">1.05</string>
@@ -213,14 +216,14 @@
     <string name="lib_luma_dm_l3_key_p0_7">Off (as in library)</string>
     <string name="lib_luma_dm_l3_key_p0_8">Off (as in library)</string>
     <string name="lib_pref_satcct_b_key">1.0</string>
-    <string name="lib_profile_title_key_p2_5">Night Vision PRO</string>
+    <string name="lib_profile_title_key_p2_5">夜视仪</string>
     <string name="lib_hardmerge_key_p0_6">Off (as in library)</string>
     <string name="lib_hardmerge_key_p0_5">Off (as in library)</string>
-    <string name="lib_profile_title_key_p2_3">Night Vision PRO</string>
+    <string name="lib_profile_title_key_p2_3">夜视仪</string>
     <string name="lib_blue_key_p3_0">0.099</string>
-    <string name="lib_profile_title_key_p2_2">Night Vision PRO</string>
-    <string name="lib_profile_title_key_p2_1">Night Vision PRO</string>
-    <string name="lib_profile_title_key_p2_0">Night Vision PRO</string>
+    <string name="lib_profile_title_key_p2_2">夜视仪</string>
+    <string name="lib_profile_title_key_p2_1">夜视仪</string>
+    <string name="lib_profile_title_key_p2_0">夜视仪</string>
     <string name="lib_hardmerge_key_p0_9">Off (as in library)</string>
     <string name="lib_hardmerge_key_p0_8">Off (as in library)</string>
     <string name="lib_hardmerge_key_p0_7">Off (as in library)</string>
@@ -1346,18 +1349,18 @@
     <string name="lib_savannah_merge_key_p0_7">Off (as in library)</string>
     <string name="lib_savannah_merge_key_p0_8">Off (as in library)</string>
     <string name="lib_blurpreview_key_key">0</string>
-    <string name="lib_profile_title_key_p4_5">Leica Vivid</string>
+    <string name="lib_profile_title_key_p4_5">徕卡灵动</string>
     <string name="pref_fix_spatial_gain_map_key">0</string>
     <string name="lib_luma_dms_l3_key_p0_5">Off (as in library)</string>
     <string name="lib_luma_dms_l3_key_p0_6">Off (as in library)</string>
     <string name="lib_luma_dms_l3_key_p0_7">Off (as in library)</string>
     <string name="lib_luma_dms_l3_key_p0_8">Off (as in library)</string>
     <string name="lib_luma_dms_l3_key_p0_9">Off (as in library)</string>
-    <string name="lib_profile_title_key_p4_3">Leica Vivid</string>
-    <string name="lib_profile_title_key_p4_2">Leica Vivid</string>
-    <string name="lib_profile_title_key_p4_1">Leica Vivid</string>
+    <string name="lib_profile_title_key_p4_3">徕卡灵动</string>
+    <string name="lib_profile_title_key_p4_2">徕卡灵动</string>
+    <string name="lib_profile_title_key_p4_1">徕卡灵动</string>
     <string name="lib_luma_a_key_p0_9">Off (as in library)</string>
-    <string name="lib_profile_title_key_p4_0">Leica Vivid</string>
+    <string name="lib_profile_title_key_p4_0">徕卡灵动</string>
     <boolean name="SABRE_ALLOWED" value="true" />
     <string name="lib_exposure_darker_key_p0_6">Off (as in library)</string>
     <string name="lib_exposure_darker_key_p0_5">Off (as in library)</string>
@@ -2008,7 +2011,7 @@
     <string name="lib_cf2_key_p1_3">1.08</string>
     <string name="lib_cf2_key_p1_0">1.08</string>
     <string name="lib_cf2_key_p1_1">1.08</string>
-    <string name="lib_profile_title_key_p3_5">Leica Soft</string>
+    <string name="lib_profile_title_key_p3_5">徕卡柔和</string>
     <string name="pref_noise_model_key_3">0</string>
     <string name="lib_chroma_b_key_p5_3">Off (as in library)</string>
     <string name="pref_noise_model_key_4">0</string>
@@ -2027,10 +2030,10 @@
     <string name="lib_contrast_2_key_p11_1">0.55</string>
     <string name="lib_contrast_2_key_p11_2">0.55</string>
     <string name="pref_tune_coeff_key_10">0.5</string>
-    <string name="lib_profile_title_key_p3_3">Leica Soft</string>
-    <string name="lib_profile_title_key_p3_2">Leica Soft</string>
-    <string name="lib_profile_title_key_p3_1">Leica Soft</string>
-    <string name="lib_profile_title_key_p3_0">Leica Soft</string>
+    <string name="lib_profile_title_key_p3_3">徕卡柔和</string>
+    <string name="lib_profile_title_key_p3_2">徕卡柔和</string>
+    <string name="lib_profile_title_key_p3_1">徕卡柔和</string>
+    <string name="lib_profile_title_key_p3_0">徕卡柔和</string>
     <string name="pref_has_checked_dual_ev_brightness">0</string>
     <string name="lib_chroma_a_key_p6_0">Off (as in library)</string>
     <string name="lib_contrast_3b_key_p7_0">1.125</string>
@@ -2274,13 +2277,13 @@
     <string name="lib_contrast_3a_key_p1_2">0.500 (Default)</string>
     <string name="lib_contrast_3a_key_p1_3">0.500 (Default)</string>
     <string name="lib_cf1_key_p5_5">0.85</string>
-    <string name="lib_profile_title_key_p14_5">Fuji Mode</string>
-    <string name="lib_profile_title_key_p14_3">Fuji Mode</string>
+    <string name="lib_profile_title_key_p14_5">富士模式</string>
+    <string name="lib_profile_title_key_p14_3">富士模式</string>
     <string name="pref_track_focus_key">1</string>
     <string name="pref_camera_selfie_flashmode_key">0</string>
-    <string name="lib_profile_title_key_p14_1">Fuji Mode</string>
-    <string name="lib_profile_title_key_p14_2">Fuji Mode</string>
-    <string name="lib_profile_title_key_p14_0">Fuji Mode</string>
+    <string name="lib_profile_title_key_p14_1">富士模式</string>
+    <string name="lib_profile_title_key_p14_2">富士模式</string>
+    <string name="lib_profile_title_key_p14_0">富士模式</string>
     <string name="lib_cg2_key_p0_8">Off (as in library)</string>
     <string name="lib_sabre_denoise_control_key_p0_9">Off (as in library)</string>
     <string name="lib_cg2_key_p0_9">Off (as in library)</string>
@@ -2433,10 +2436,10 @@
     <string name="pref_max_focus_value_key">20</string>
     <string name="pref_switch_to_previous_mode_command_string">71</string>
     <string name="lib_vignette_key_p11_0">0.96875 (Enable)</string>
-    <string name="lib_profile_title_key_p6_5">Black and White Humanistic</string>
+    <string name="lib_profile_title_key_p6_5">黑白人文</string>
     <string name="lib_vignette_key_p11_1">0.96875 (Enable)</string>
-    <string name="lib_profile_title_key_p6_3">Black and White Humanistic</string>
-    <string name="lib_profile_title_key_p6_2">Black and White Humanistic</string>
+    <string name="lib_profile_title_key_p6_3">黑白人文</string>
+    <string name="lib_profile_title_key_p6_2">黑白人文</string>
     <string name="lib_saturations_key_4">1.125</string>
     <string name="lib_noise_reduction_sabre_key_p7_5">-10.0</string>
     <string name="lib_vignette_key_p11_5">0.96875 (Enable)</string>
@@ -2457,8 +2460,8 @@
     <string name="lib_contrast_2_key_p10_2">0.53</string>
     <string name="lib_contrast_2_key_p10_3">0.53</string>
     <string name="lib_dehazed_expo_key_p12_5">1.75</string>
-    <string name="lib_profile_title_key_p6_1">Black and White Humanistic</string>
-    <string name="lib_profile_title_key_p6_0">Black and White Humanistic</string>
+    <string name="lib_profile_title_key_p6_1">黑白人文</string>
+    <string name="lib_profile_title_key_p6_0">黑白人文</string>
     <string name="pref_camera_hdrplus_option_available_key">1</string>
     <string name="lib_temporal_a_key_p0_9">Off (as in library)</string>
     <string name="lib_temporal_a_key_p0_8">Off (as in library)</string>
@@ -2835,19 +2838,19 @@
     <string name="lib_tun_col_sat_par_2_key_p0_9">Off (as in library)</string>
     <string name="lib_tun_col_sat_par_2_key_p0_8">Off (as in library)</string>
     <string name="lib_tun_col_sat_par_2_key_p0_5">Off (as in library)</string>
-    <string name="lib_profile_title_key_p13_5">Hasselblad Natural</string>
+    <string name="lib_profile_title_key_p13_5">哈苏自然</string>
     <string name="lib_tun_col_sat_par_2_key_p0_7">Off (as in library)</string>
     <string name="lib_tun_col_sat_par_2_key_p0_6">Off (as in library)</string>
     <string name="lib_luma_dl_sabre_l2a_key_p0_6">Off (as in library)</string>
     <string name="lib_luma_dl_sabre_l2a_key_p0_7">Off (as in library)</string>
     <string name="lib_luma_dl_sabre_l2a_key_p0_5">Off (as in library)</string>
-    <string name="lib_profile_title_key_p13_1">Hasselblad Natural</string>
+    <string name="lib_profile_title_key_p13_1">哈苏自然</string>
     <string name="lib_pref_b_hue_key_p14_2">-6</string>
-    <string name="lib_profile_title_key_p13_0">Hasselblad Natural</string>
+    <string name="lib_profile_title_key_p13_0">哈苏自然</string>
     <string name="lib_pref_b_hue_key_p14_3">-6</string>
-    <string name="lib_profile_title_key_p13_3">Hasselblad Natural</string>
+    <string name="lib_profile_title_key_p13_3">哈苏自然</string>
     <string name="lib_luma_dl_sabre_l2a_key_p0_8">Off (as in library)</string>
-    <string name="lib_profile_title_key_p13_2">Hasselblad Natural</string>
+    <string name="lib_profile_title_key_p13_2">哈苏自然</string>
     <string name="lib_pref_b_hue_key_p14_5">-6</string>
     <string name="lib_luma_dl_sabre_l2a_key_p0_9">Off (as in library)</string>
     <string name="pref_camera_recordlocation_key">1</string>
@@ -2978,18 +2981,18 @@
     <string name="lib_cg10_key_p0_6">Off (as in library)</string>
     <string name="pref_dirty_lens_detector_key">1</string>
     <string name="lib_cg10_key_p0_5">Off (as in library)</string>
-    <string name="lib_profile_title_key_p7_5">Vintage Film</string>
+    <string name="lib_profile_title_key_p7_5">复古胶片</string>
     <string name="lib_fix_sabre_noise_key_p0_9">Off (as in library)</string>
-    <string name="lib_profile_title_key_p7_3">Vintage Film</string>
+    <string name="lib_profile_title_key_p7_3">复古胶片</string>
     <string name="lib_fix_sabre_noise_key_p0_8">Off (as in library)</string>
-    <string name="lib_profile_title_key_p7_2">Vintage Film</string>
+    <string name="lib_profile_title_key_p7_2">复古胶片</string>
     <string name="lib_fix_sabre_noise_key_p0_7">Off (as in library)</string>
-    <string name="lib_profile_title_key_p7_1">Vintage Film</string>
+    <string name="lib_profile_title_key_p7_1">复古胶片</string>
     <string name="lib_fix_sabre_noise_key_p0_6">Off (as in library)</string>
     <string name="lib_cg10_key_p0_9">Off (as in library)</string>
     <string name="lib_fix_sabre_noise_key_p0_5">Off (as in library)</string>
     <string name="pref_noise_model_key">0</string>
-    <string name="lib_profile_title_key_p7_0">Vintage Film</string>
+    <string name="lib_profile_title_key_p7_0">复古胶片</string>
     <string name="lib_exposure_darker_key_p1_5">1.875</string>
     <string name="lib_exposure_darker_key_p1_1">1.875</string>
     <string name="lib_vignette_key_p2_3">Off (as in library)</string>
@@ -3052,9 +3055,9 @@
     <string name="pref_hdrnet_key">0</string>
     <string name="lib_vignette_key_p10_1">0.96875 (Enable)</string>
     <string name="lib_vignette_key_p10_2">0.96875 (Enable)</string>
-    <string name="lib_profile_title_key_p5_5">Leica Spirited</string>
+    <string name="lib_profile_title_key_p5_5">徕卡鲜艳</string>
     <string name="lib_vignette_key_p10_0">0.96875 (Enable)</string>
-    <string name="lib_profile_title_key_p5_3">Leica Spirited</string>
+    <string name="lib_profile_title_key_p5_3">徕卡鲜艳</string>
     <string name="manual_focus_near_key_8">0.833</string>
     <string name="lib_vignette_key_p10_5">0.96875 (Enable)</string>
     <string name="manual_focus_near_key_7">0.833</string>
@@ -3069,9 +3072,9 @@
     <string name="lib_dehazed_expo_key_p11_5">0</string>
     <string name="lib_dehazed_expo_key_p11_3">0</string>
     <string name="lib_dehazed_expo_key_p11_2">0</string>
-    <string name="lib_profile_title_key_p5_2">Leica Spirited</string>
-    <string name="lib_profile_title_key_p5_1">Leica Spirited</string>
-    <string name="lib_profile_title_key_p5_0">Leica Spirited</string>
+    <string name="lib_profile_title_key_p5_2">徕卡鲜艳</string>
+    <string name="lib_profile_title_key_p5_1">徕卡鲜艳</string>
+    <string name="lib_profile_title_key_p5_0">徕卡鲜艳</string>
     <string name="lib_chroma_a_key_p0_6">Off (as in library)</string>
     <string name="lib_chroma_a_key_p0_7">Off (as in library)</string>
     <string name="lib_chroma_a_key_p0_8">Off (as in library)</string>
@@ -3310,7 +3313,7 @@
     <string name="pref_blue_coeff_key_8">1.0</string>
     <string name="pref_blue_coeff_key_5">1.0</string>
     <string name="pref_blue_coeff_key_6">1.0</string>
-    <string name="lib_profile_title_key_p12_5">Cyan and Orange</string>
+    <string name="lib_profile_title_key_p12_5">极致青橙</string>
     <string name="pref_blue_coeff_key_3">1.05</string>
     <string name="pref_blue_coeff_key_4">1.0</string>
     <string name="pref_blue_coeff_key_1">1.05</string>
@@ -3319,15 +3322,15 @@
     <string name="lib_pref_satcct_y_key_p8_0">0.9</string>
     <string name="pref_blue_coeff_key_0">1.05</string>
     <string name="lib_pref_satcct_y_key_p8_5">0.9</string>
-    <string name="lib_profile_title_key_p12_0">Cyan and Orange</string>
+    <string name="lib_profile_title_key_p12_0">极致青橙</string>
     <string name="lib_pref_satcct_y_key_p8_3">0.9</string>
     <string name="lib_pref_satcct_y_key_p8_2">0.9</string>
-    <string name="lib_profile_title_key_p12_2">Cyan and Orange</string>
+    <string name="lib_profile_title_key_p12_2">极致青橙</string>
     <string name="lib_luma_dl_sabre_l1b_key_p0_9">Off (as in library)</string>
-    <string name="lib_profile_title_key_p12_1">Cyan and Orange</string>
+    <string name="lib_profile_title_key_p12_1">极致青橙</string>
     <string name="lib_luma_dl_sabre_l1b_key_p0_8">Off (as in library)</string>
     <string name="lib_luma_dl_sabre_l1b_key_p0_7">Off (as in library)</string>
-    <string name="lib_profile_title_key_p12_3">Cyan and Orange</string>
+    <string name="lib_profile_title_key_p12_3">极致青橙</string>
     <string name="lib_luma_dl_sabre_l1b_key_p0_6">Off (as in library)</string>
     <string name="lib_contrast_3b_key_p1_0">Off (as in library)</string>
     <string name="pref_frame_count_ns_key_10">20</string>
@@ -3865,11 +3868,11 @@
     <string name="manual_focus_median_key_10">0.833</string>
     <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_social_app_org_telegram_messenger">0</string>
-    <string name="lib_profile_title_key_p11_1">Nostalgic Impression</string>
-    <string name="lib_profile_title_key_p11_0">Nostalgic Impression</string>
-    <string name="lib_profile_title_key_p11_3">Nostalgic Impression</string>
-    <string name="lib_profile_title_key_p11_2">Nostalgic Impression</string>
-    <string name="lib_profile_title_key_p11_5">Nostalgic Impression</string>
+    <string name="lib_profile_title_key_p11_1">印象怀旧</string>
+    <string name="lib_profile_title_key_p11_0">印象怀旧</string>
+    <string name="lib_profile_title_key_p11_3">印象怀旧</string>
+    <string name="lib_profile_title_key_p11_2">印象怀旧</string>
+    <string name="lib_profile_title_key_p11_5">印象怀旧</string>
     <string name="pref_aux_key">0</string>
     <string name="lib_pref_g_hue_key_p8_0">0</string>
     <string name="lib_pref_g_hue_key_p8_1">0</string>
@@ -4106,13 +4109,13 @@
     <string name="lib_luma_dm_l1_key_p0_7">Off (as in library)</string>
     <string name="lib_luma_dm_l1_key_p0_9">Off (as in library)</string>
     <string name="lib_hdr_range_plus_key_p2_0">4.5</string>
-    <string name="lib_profile_title_key_p9_5">Cool Gray Texture</string>
-    <string name="lib_profile_title_key_p9_3">Cool Gray Texture</string>
-    <string name="lib_profile_title_key_p9_2">Cool Gray Texture</string>
+    <string name="lib_profile_title_key_p9_5">酷灰质感</string>
+    <string name="lib_profile_title_key_p9_3">酷灰质感</string>
+    <string name="lib_profile_title_key_p9_2">酷灰质感</string>
     <string name="lib_hdr_range_plus_key_p2_3">4.5</string>
-    <string name="lib_profile_title_key_p9_1">Cool Gray Texture</string>
+    <string name="lib_profile_title_key_p9_1">酷灰质感</string>
     <string name="pref_fix_resolution_key_10">0</string>
-    <string name="lib_profile_title_key_p9_0">Cool Gray Texture</string>
+    <string name="lib_profile_title_key_p9_0">酷灰质感</string>
     <string name="lib_hdr_range_plus_key_p2_1">4.5</string>
     <string name="lib_hdr_range_plus_key_p2_2">4.5</string>
     <string name="lib_cf2_key_p2_3">1.05</string>
@@ -4738,12 +4741,12 @@
     <string name="lib_skipmetadatacheck_key_1">0</string>
     <string name="black_level_3_key_7">64.0</string>
     <string name="lib_skipmetadatacheck_key_3">0</string>
-    <string name="lib_profile_title_key_p8_5">Natural Portrait</string>
+    <string name="lib_profile_title_key_p8_5">自然人像</string>
     <boolean name="p20_shutter_btn.enabled.RESTART" value="true" />
-    <string name="lib_profile_title_key_p8_3">Natural Portrait</string>
-    <string name="lib_profile_title_key_p8_2">Natural Portrait</string>
-    <string name="lib_profile_title_key_p8_1">Natural Portrait</string>
-    <string name="lib_profile_title_key_p8_0">Natural Portrait</string>
+    <string name="lib_profile_title_key_p8_3">自然人像</string>
+    <string name="lib_profile_title_key_p8_2">自然人像</string>
+    <string name="lib_profile_title_key_p8_1">自然人像</string>
+    <string name="lib_profile_title_key_p8_0">自然人像</string>
     <string name="lib_chroma_b_key_p0_8">Off (as in library)</string>
     <string name="lib_chroma_b_key_p0_7">Off (as in library)</string>
     <string name="lib_spatial_denoise_micro_3_key_p0_9">Off (as in library)</string>
@@ -4783,13 +4786,13 @@
     <string name="lib_hdr_overall_lightness_key_p0_7">Off (as in library)</string>
     <string name="lib_contrast_1_key_p5_3">0.061</string>
     <string name="lib_hdr_overall_lightness_key_p0_6">Off (as in library)</string>
-    <string name="lib_profile_title_key_p10_0">Cinematic Filter</string>
+    <string name="lib_profile_title_key_p10_0">电影叙事</string>
     <string name="lib_pref_green_coeff_key_p13_0">0.82</string>
     <boolean name="camera.catshark_af" value="true" />
-    <string name="lib_profile_title_key_p10_2">Cinematic Filter</string>
-    <string name="lib_profile_title_key_p10_1">Cinematic Filter</string>
-    <string name="lib_profile_title_key_p10_3">Cinematic Filter</string>
-    <string name="lib_profile_title_key_p10_5">Cinematic Filter</string>
+    <string name="lib_profile_title_key_p10_2">电影叙事</string>
+    <string name="lib_profile_title_key_p10_1">电影叙事</string>
+    <string name="lib_profile_title_key_p10_3">电影叙事</string>
+    <string name="lib_profile_title_key_p10_5">电影叙事</string>
     <string name="lib_cf1_key_p1_0">1.15 (default CF-1 Green)</string>
     <string name="lib_smoothing_new_key_p7_3">Off (as in library)</string>
     <string name="lib_cf1_key_p1_1">1.15 (default CF-1 Green)</string>
@@ -5409,27 +5412,4 @@
 
     <boolean name="camcorder.4k60fps" value="true" />
     <string name="pref_show_lut_fbutton_key">0</string>
-
-<!-- 开启隐藏模式删除我这行和下面那行
-
-<string name="lib_profile_show_key_p6_0">0</string>
-    <string name="lib_profile_show_key_p6_1">0</string>
-    <string name="lib_profile_show_key_p6_2">0</string>
-<string name="lib_profile_show_key_p6_3">0</string>
-    <string name="lib_profile_show_key_p9_0">0</string>
-    <string name="lib_profile_show_key_p9_1">0</string>
-    <string name="lib_profile_show_key_p9_2">0</string>
-<string name="lib_profile_show_key_p9_3">0</string>
-    <string name="lib_profile_show_key_p11_0">0</string>
-    <string name="lib_profile_show_key_p11_1">0</string>
-    <string name="lib_profile_show_key_p11_2">0</string>
-<string name="lib_profile_show_key_p11_3">0</string>
-
-开启隐藏模式也删除我这行-->
-
- 
-
-    
-
-
 </map>
