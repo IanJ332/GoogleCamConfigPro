@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
+    <!-- Last update time Aug/31/2024 -->
+    <!-- Phone OPTIMIIZED by CameraConfigPro\Genral_Setting(Source File).agc -->
+    <!-- touch-up work based on main camera IMX766, f/1.7, 23mm, 1/2", PDAF, Laser AF -->
+ 
     <string name="lib_shastaforce_key_key">0</string>
     <string name="lib_cg5_key_p3_3">0.679</string>
     <string name="lib_tun_col_sat_par_1_key_p3_3">1.05</string>
