@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
+    <!-- Last update time Sep/6/2024 -->
+    <!-- Phone OPTIMIIZED by CameraConfigPro\Genral_Setting(Source File).agc -->
+    <!-- touch-up work based on main camera, f/2.0, 16mm, 1/2.8", PDAF -->
     <string name="lib_shastaforce_key_key">0</string>
     <string name="lib_cg5_key_p3_3">0.679</string>
     <string name="lib_tun_col_sat_par_1_key_p3_3">1.05</string>
@@ -512,7 +515,6 @@
     <string name="pref_green_coeff_key_10">1.0</string>
     <string name="lib_highlight_fix_3_key_key">0</string>
     <string name="lib_sharp_noise_model_key_p0_8">Off (as in library)</string>
-    <string name="custom_lib_open_key">CRshapreV15(推荐这个或者v8C库，成像速度快更通透降噪更好).so</string>
     <string name="lib_sharp_noise_model_key_p0_7">Off (as in library)</string>
     <string name="lib_sharp_noise_model_key_p0_6">Off (as in library)</string>
     <string name="lib_sharp_noise_model_key_p0_5">Off (as in library)</string>
@@ -4931,25 +4933,4 @@
 
     <boolean name="camcorder.4k60fps" value="true" />
     <string name="pref_show_lut_fbutton_key">0</string>
-
-
-  <!-- 开启隐藏模式删除我这行和下面那行
-
-<string name="lib_profile_show_key_p6_0">0</string>
-    <string name="lib_profile_show_key_p6_1">0</string>
-    <string name="lib_profile_show_key_p6_2">0</string>
-<string name="lib_profile_show_key_p6_3">0</string>
-    <string name="lib_profile_show_key_p9_0">0</string>
-    <string name="lib_profile_show_key_p9_1">0</string>
-    <string name="lib_profile_show_key_p9_2">0</string>
-<string name="lib_profile_show_key_p9_3">0</string>
-    <string name="lib_profile_show_key_p11_0">0</string>
-    <string name="lib_profile_show_key_p11_1">0</string>
-    <string name="lib_profile_show_key_p11_2">0</string>
-<string name="lib_profile_show_key_p11_3">0</string>
-
-开启隐藏模式也删除我这行-->
-
-
-    
 </map>
